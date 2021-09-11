@@ -1,4 +1,3 @@
-from os import X_OK
 from selenium import webdriver
 import math
 browser = webdriver.Chrome()
